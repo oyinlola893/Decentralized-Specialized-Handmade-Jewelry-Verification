@@ -9,3 +9,7 @@ R
 "contracts/design-registration.clar,1/f/1fa9402057e7da2e146d9664039a17b8e319d2c9
 Q
 !tests/design-registration.test.ts,0/b/0bb3b5b007467af4befea5787086d0e55d938751
+U
+%contracts/material-certification.clar,d/d/ddda49da0d0cc6c4b9d65d85e1c47f05aa0888c1
+T
+$tests/material-certification.test.ts,d/2/d23b4f19230a8a032ab77ee19dcda4c0d41e178e
